@@ -1,0 +1,113 @@
+{D:/project mini POCA/8_bit_cpu-master/hdl/alu.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/alu.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu
+-- Compiling architecture behave of alu
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/mar_mem_tb.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/mar_mem_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mem_tb
+-- Compiling architecture behave of mem_tb
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/reg.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/reg.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity reg
+-- Compiling architecture behave of reg
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/cu_test.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/cu_test.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cu_test
+-- Compiling architecture Behavioral of cu_test
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/mem.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/mem.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity mem
+-- Compiling architecture behave of mem
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/cpu.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/cpu.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity cpu
+-- Compiling architecture behave of cpu
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/mar.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/mar.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity mar
+-- Compiling architecture behave of mar
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/pc.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/pc.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity pc
+-- Compiling architecture behave of pc
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/alu_tb.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/alu_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu_tb
+-- Compiling architecture behave of alu_tb
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/control_unit.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/control_unit.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity control_unit
+-- Compiling architecture Behavioral of control_unit
+
+} {} {}} {D:/project mini POCA/8_bit_cpu-master/hdl/pc_tb.vhd} {1 {vcom -work work -2002 -explicit {D:/project mini POCA/8_bit_cpu-master/hdl/pc_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity pc_tb
+-- Compiling architecture behave of pc_tb
+
+} {} {}}

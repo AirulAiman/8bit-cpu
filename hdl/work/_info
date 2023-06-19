@@ -1,0 +1,477 @@
+m255
+K3
+13
+cModel Technology
+dD:\Program Files (x86)\quartus
+Ealu
+Z0 w1619962849
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dD:\project mini POCA\8_bit_cpu-master\hdl
+Z7 8D:/project mini POCA/8_bit_cpu-master/hdl/alu.vhd
+Z8 FD:/project mini POCA/8_bit_cpu-master/hdl/alu.vhd
+l0
+L8
+V[Lh:hhC7L]PLO;;YQYZ600
+Z9 OV;C;10.1d;51
+32
+Z10 !s108 1658371964.867000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/alu.vhd|
+Z12 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/alu.vhd|
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+!s100 7eeP8EK8IV9iMdg1HaLX91
+!i10b 1
+Abehave
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 [Lh:hhC7L]PLO;;YQYZ600
+l23
+L20
+V5XlW[Hi017Oa3b>58DHaS3
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 9fGA8nRnQmQ1=oXi:JKS93
+!i10b 1
+Ealu_tb
+Z15 w1619962849
+R2
+R1
+R4
+R5
+R6
+Z16 8D:/project mini POCA/8_bit_cpu-master/hdl/alu_tb.vhd
+Z17 FD:/project mini POCA/8_bit_cpu-master/hdl/alu_tb.vhd
+l0
+L5
+V`lDg6bnzRQEmIBfkDd5WO3
+R9
+32
+Z18 !s108 1658371965.562000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/alu_tb.vhd|
+Z20 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/alu_tb.vhd|
+R13
+R14
+!s100 YM6dY5;bE]QiQzQda<I4h2
+!i10b 1
+Abehave
+R2
+R1
+R4
+R5
+DEx4 work 6 alu_tb 0 22 `lDg6bnzRQEmIBfkDd5WO3
+l31
+L9
+VROfhI;nW<RCE0OUX>9YMP1
+R9
+32
+R18
+R19
+R20
+R13
+R14
+!s100 ndXP:iVNA0Zin:5j>mLWd0
+!i10b 1
+Econtrol_unit
+R15
+R2
+R1
+R3
+R4
+R5
+R6
+Z21 8D:/project mini POCA/8_bit_cpu-master/hdl/control_unit.vhd
+Z22 FD:/project mini POCA/8_bit_cpu-master/hdl/control_unit.vhd
+l0
+L37
+VUIK`U]LPYY_@6]hg5Ubl]0
+R9
+32
+Z23 !s108 1658371965.824000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/control_unit.vhd|
+Z25 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/control_unit.vhd|
+R13
+R14
+!s100 N6dF<GFbI?4VPjO<7dODN3
+!i10b 1
+Abehavioral
+R2
+R1
+R3
+R4
+R5
+DEx4 work 12 control_unit 0 22 UIK`U]LPYY_@6]hg5Ubl]0
+l49
+L46
+Vij:bR;bdQfV5RTVYaYXE<1
+R9
+32
+R23
+R24
+R25
+R13
+R14
+!s100 @YkSO<0embdkbFk4N:=6A3
+!i10b 1
+Ecpu
+R15
+R1
+R2
+R4
+R5
+R6
+Z26 8D:/project mini POCA/8_bit_cpu-master/hdl/cpu.vhd
+Z27 FD:/project mini POCA/8_bit_cpu-master/hdl/cpu.vhd
+l0
+L7
+VXcgDINj2]KV_P9[En6FBI2
+R9
+32
+Z28 !s108 1658371966.176000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/cpu.vhd|
+Z30 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/cpu.vhd|
+R13
+R14
+!s100 lPd`@EEHP8;gB=RIIFKkD0
+!i10b 1
+Abehave
+R1
+R2
+R4
+R5
+DEx4 work 3 cpu 0 22 XcgDINj2]KV_P9[En6FBI2
+l122
+L18
+Vm`8hnBVA^o31RFXelk2000
+R9
+32
+R28
+R29
+R30
+R13
+R14
+!s100 Q7:G]CP19NUf8]1l<V=XV3
+!i10b 1
+Ecu_test
+R15
+R4
+R5
+R6
+Z31 8D:/project mini POCA/8_bit_cpu-master/hdl/cu_test.vhd
+Z32 FD:/project mini POCA/8_bit_cpu-master/hdl/cu_test.vhd
+l0
+L34
+V<V;;`4hH@QidBSO:b<zCC1
+R9
+32
+Z33 !s108 1658371966.469000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/cu_test.vhd|
+Z35 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/cu_test.vhd|
+R13
+R14
+!s100 0=40j;Z^V8OibbI^Sc2dL0
+!i10b 1
+Abehavioral
+R4
+R5
+DEx4 work 7 cu_test 0 22 <V;;`4hH@QidBSO:b<zCC1
+l59
+L38
+V0_6bKboKjj40;AEefDH<40
+R9
+32
+R33
+R34
+R35
+R13
+R14
+!s100 9c3n=O@XiiInAc11g3MiW2
+!i10b 1
+Emar
+R15
+R2
+R1
+R4
+R5
+R6
+Z36 8D:/project mini POCA/8_bit_cpu-master/hdl/mar.vhd
+Z37 FD:/project mini POCA/8_bit_cpu-master/hdl/mar.vhd
+l0
+L5
+ViWBk5Rl@O<=;=<Gi6;W8N2
+R9
+32
+Z38 !s108 1658371966.752000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/mar.vhd|
+Z40 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/mar.vhd|
+R13
+R14
+!s100 AM5=b8iiQaL<kif1OAmYU3
+!i10b 1
+Abehave
+R2
+R1
+R4
+R5
+DEx4 work 3 mar 0 22 iWBk5Rl@O<=;=<Gi6;W8N2
+l19
+L15
+Vz?260[f9E_ZInz]Q;]mRF3
+R9
+32
+R38
+R39
+R40
+R13
+R14
+!s100 770olklg2Pe0Lb:SCTF?50
+!i10b 1
+Emem
+R15
+Z41 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R3
+R2
+R1
+R4
+R5
+R6
+Z42 8D:/project mini POCA/8_bit_cpu-master/hdl/mem.vhd
+Z43 FD:/project mini POCA/8_bit_cpu-master/hdl/mem.vhd
+l0
+L11
+V9WPl:klZ:Y?c3THb<:SF<2
+R9
+32
+Z44 !s108 1658371967.305000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/mem.vhd|
+Z46 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/mem.vhd|
+R13
+R14
+!s100 ^MJJI:V6_bj0XhdAZIlB>2
+!i10b 1
+Abehave
+R41
+R3
+R2
+R1
+R4
+R5
+DEx4 work 3 mem 0 22 9WPl:klZ:Y?c3THb<:SF<2
+l54
+L23
+VB?BG@FO8Vn3:n>D2EjzM[2
+R9
+32
+R44
+R45
+R46
+R13
+R14
+!s100 Hl4lmH;?_gbHzKo:_iBIj1
+!i10b 1
+Emem_tb
+R15
+R2
+R1
+R4
+R5
+R6
+Z47 8D:/project mini POCA/8_bit_cpu-master/hdl/mar_mem_tb.vhd
+Z48 FD:/project mini POCA/8_bit_cpu-master/hdl/mar_mem_tb.vhd
+l0
+L5
+VHea8agE[WH`zHmXzZf7O^3
+R9
+32
+Z49 !s108 1658371967.044000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/mar_mem_tb.vhd|
+Z51 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/mar_mem_tb.vhd|
+R13
+R14
+!s100 SAch[LQAAXPTFeA4Om?UG3
+!i10b 1
+Abehave
+R2
+R1
+R4
+R5
+DEx4 work 6 mem_tb 0 22 Hea8agE[WH`zHmXzZf7O^3
+l46
+L9
+ViQ:R8[=;@AghzYY55dk5a2
+R9
+32
+R49
+R50
+R51
+R13
+R14
+!s100 Ef5?adBdn64BPb5Bi84?E1
+!i10b 1
+Epc
+R15
+R2
+R1
+R4
+R5
+R6
+Z52 8D:/project mini POCA/8_bit_cpu-master/hdl/pc.vhd
+Z53 FD:/project mini POCA/8_bit_cpu-master/hdl/pc.vhd
+l0
+L5
+V5;<QY53=mFPKY;Q3>BjdN1
+R9
+32
+Z54 !s108 1658371967.595000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/pc.vhd|
+Z56 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/pc.vhd|
+R13
+R14
+!s100 chna=IA@4QZf>Qc:GTYB43
+!i10b 1
+Abehave
+R2
+R1
+R4
+R5
+DEx4 work 2 pc 0 22 5;<QY53=mFPKY;Q3>BjdN1
+l22
+L18
+VMSd0T]<Cidn4e9YH]h1QD3
+R9
+32
+R54
+R55
+R56
+R13
+R14
+!s100 VO6gGC61nkYzb@3hbzFDU3
+!i10b 1
+Epc_tb
+R15
+R2
+R1
+R4
+R5
+R6
+Z57 8D:/project mini POCA/8_bit_cpu-master/hdl/pc_tb.vhd
+Z58 FD:/project mini POCA/8_bit_cpu-master/hdl/pc_tb.vhd
+l0
+L5
+V7a8X6Qb0=m782YlOE_`ca2
+R9
+32
+Z59 !s108 1658372006.858000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/pc_tb.vhd|
+Z61 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/pc_tb.vhd|
+R13
+R14
+!s100 `@36Ng^jCe<TNJ]eY^2363
+!i10b 1
+Abehave
+R2
+R1
+R4
+R5
+DEx4 work 5 pc_tb 0 22 7a8X6Qb0=m782YlOE_`ca2
+l33
+L9
+VMFHOzG^^2CX=kADcgLUic2
+R9
+32
+R59
+R60
+R61
+R13
+R14
+!s100 QDbU5=B[<nlA@L5PQoN041
+!i10b 1
+Ereg
+R15
+R2
+R1
+R4
+R5
+R6
+Z62 8D:/project mini POCA/8_bit_cpu-master/hdl/reg.vhd
+Z63 FD:/project mini POCA/8_bit_cpu-master/hdl/reg.vhd
+l0
+L5
+VVSQ?Z0C_kDIR_R>0n5HoV0
+R9
+32
+Z64 !s108 1658371968.134000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/reg.vhd|
+Z66 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/reg.vhd|
+R13
+R14
+!s100 c2_]7edMfPkzMRS1@`M@Z1
+!i10b 1
+Abehave
+R2
+R1
+R4
+R5
+DEx4 work 3 reg 0 22 VSQ?Z0C_kDIR_R>0n5HoV0
+l23
+L19
+VU[^6GgV5JlFbjj^?lU4O52
+R9
+32
+R64
+R65
+R66
+R13
+R14
+!s100 W0N4XLcD=YL[TIjMDT@Kd2
+!i10b 1
+Ereg_tb
+Z67 w1658373922
+R2
+R1
+R4
+R5
+R6
+Z68 8D:/project mini POCA/8_bit_cpu-master/hdl/reg_tb.vhd
+Z69 FD:/project mini POCA/8_bit_cpu-master/hdl/reg_tb.vhd
+l0
+L5
+V0FKfAjZ6?h1T0J6liEHZ73
+!s100 P@UD^J03?KWl=MX3HVE1M0
+R9
+32
+!i10b 1
+Z70 !s108 1658373928.029000
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/project mini POCA/8_bit_cpu-master/hdl/reg_tb.vhd|
+Z72 !s107 D:/project mini POCA/8_bit_cpu-master/hdl/reg_tb.vhd|
+R13
+R14
+Abehave
+R2
+R1
+R4
+R5
+Z73 DEx4 work 6 reg_tb 0 22 0FKfAjZ6?h1T0J6liEHZ73
+l33
+L9
+V:aGAo2Qiz]P^LWOl4oFOF1
+!s100 YGnS5lBT090jTPKTc:RiO2
+R9
+32
+!i10b 1
+R70
+R71
+R72
+R13
+R14
